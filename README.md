@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aenriquezr1500@alumno.ipn.mx**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFYDKhpsfA/P3ZpgWBaCPZWqwBwCZWkRw/view?utm_content=DAFYDKhpsfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFYDKhpsfA/P3ZpgWBaCPZWqwBwCZWkRw/view?utm_content=DAFYDKhpsfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Curriculum](https://drive.google.com/drive/folders/1r4t-fzgudbXWsi9wuvV01dMdHWI7EsGz?usp=share_link)
 
 - ⚡ Fun fact **Professional dancers can burn up to 500 calories during an hour of intense dancing 💃. It's an excellent way to stay fit! 💪**
 
