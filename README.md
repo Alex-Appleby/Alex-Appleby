@@ -1,13 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Alex, nice to meet you!</h1>
 <h3 align="center">I'm a last year student of Computer Systems Engineering enthusiast for Data Science, Constant Learning and Chess 😊😃. I'm eager to discover new technologies 💻, learn from them 📚 and apply them to bring innovative solutions 💡. I like to work in complex and challenging software projects and I'm committed to quality and delivering products of the highest quality 🤝. I'm interested in using Artificial Intelligence to solve real problems and I love to share knowledge and experiences with other professionals.</h3>
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=applebycodealex&label=Profile%20views&color=2590f4&style=flat" alt="applebycodealex" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=applebycodealex&label=Profile%20views&color=2590f4&style=flat" alt="applebycodealex" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=applebycodealex" alt="applebycodealex" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=applebycodealex" alt="applebycodealex" /></a> </p>
 
 - 🔭 I’m currently working on **Design of RNA's guides for the CAS9 protein 🧬💻**
 
@@ -20,6 +18,10 @@
 - 📄 Know about my experiences [Curriculum](https://drive.google.com/drive/folders/1r4t-fzgudbXWsi9wuvV01dMdHWI7EsGz?usp=share_link)
 
 - ⚡ Fun fact **Professional dancers can burn up to 500 calories during an hour of intense dancing 💃. It's an excellent way to stay fit! 💪**
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,10 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=applebycodealex&show_icons=true&theme=highcontrast&bg_color=000000&locale=en" alt="applebycodealex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=applebycodealex&theme=highcontrast" alt="applebycodealex" /></p>
-
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/rzeWnbH8Uc5Y4/giphy.gif" width="250" />
-</div>
 
 ## I present myself in Python 🐍 . Thank you very much for coming this far! 😁:
 ```python
