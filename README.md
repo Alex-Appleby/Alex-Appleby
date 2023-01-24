@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Machine Learning 🤖, Artificial Intelligence 💻 and Data Science 📊**
 
-- 💬 Ask me about **Java 💻, Python 🐍 and Data Science 📊**
+- 💬 Ask me about **Java 💻, Python 🐍**
 
 - 📫 How to reach me **aenriquezr1500@alumno.ipn.mx**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFYDKhpsfA/P3ZpgWBaCPZWqwBwCZWkRw/view?utm_content=DAFYDKhpsfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFYDKhpsfA/P3ZpgWBaCPZWqwBwCZWkRw/view?utm_content=DAFYDKhpsfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **Los bailarines profesionales pueden quemar hasta 500 calorías durante una hora de baile intenso 💃. ¡Es una excelente forma de mantenerse en forma! 💪**
+- ⚡ Fun fact **Professional dancers can burn up to 500 calories during an hour of intense dancing 💃. It's an excellent way to stay fit! 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
