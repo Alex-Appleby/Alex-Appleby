@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=applebycodealex" alt="applebycodealex" /></a> </p>
 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/f74WQIhbzBKAusL2v1/giphy.gif" width="350" />
+</div>
+
 - 🔭 I’m currently working on **Design of RNA's guides for the CAS9 protein 🧬💻**
 
 - 🌱 I’m currently learning **Machine Learning 🤖, Artificial Intelligence 💻 and Data Science 📊**
@@ -50,7 +54,3 @@ AlejandroEnriquezRivera = AlejandroEnriquezRivera("Alejandro Enriquez Rivera", "
 AlejandroEnriquezRivera.presentacion()
 
 ```
-
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="350" />
-</div>
