@@ -44,7 +44,7 @@ class AlejandroEnriquezRivera:
         self.school = school
     
     def presentacion(self):
-        print("Hi there! My name is", self.name, "and I was born on", self.date_of_birth, ". I really enjoy sports like soccer, basketball and swimming. I ❤️ dancing, playing chess and checkers. My favorite books are Psicología del éxito, by Mario Luna; Controle su destino by Tony Robbins and El poder de los hábitos by Charles Duhigg. I love socializing and spending quality time with my friends. I'm studying at", self.school, "🤓.")
+        print("Hi there! My name is", self.name, "and I was born on", self.date_of_birth, ". I really enjoy sports like soccer, basketball and swimming. I ❤️ dancing, playing chess and checkers. My favorite books are Psychology of Success by Mario Luna, Control Your Destiny by Tony Robbins and The Power of Habits, by Charles Duhigg. I love socializing and spending quality time with my friends. I'm studying at", self.school, "🤓.")
 
 AlejandroEnriquezRivera = AlejandroEnriquezRivera("Alejandro Enriquez Rivera", "21 de septiembre del 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
 AlejandroEnriquezRivera.presentacion()
