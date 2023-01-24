@@ -31,8 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=applebycodealex&theme=highcontrast" alt="applebycodealex" /></p>
 
-
-<h3 align="center">I present myself in Python 🐍 . Thank you very much for coming this far! 😁</h3>
+## I present myself in Python 🐍 . Thank you very much for coming this far! 😁:
 ```python
 class AlejandroEnriquezRivera:
     
@@ -49,4 +48,5 @@ class AlejandroEnriquezRivera:
 
 AlejandroEnriquezRivera = AlejandroEnriquezRivera("Alejandro Enriquez Rivera", "21 de septiembre del 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
 AlejandroEnriquezRivera.presentacion()
+
 ```
