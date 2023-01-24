@@ -30,3 +30,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=applebycodealex&show_icons=true&theme=highcontrast&bg_color=000000&locale=en" alt="applebycodealex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=applebycodealex&theme=highcontrast" alt="applebycodealex" /></p>
+
+
+<h3 align="center">I present myself in Python 🐍 . Thank you very much for coming this far! 😁</h3>
+```python
+class AlejandroEnriquezRivera:
+    
+    def __init__(self, name, date_of_birth, sports, favorite_activities, favorite_books, school):
+        self.name = name
+        self.date_of_birth = date_of_birth
+        self.sports = sports
+        self.favorite_activities = favorite_activities
+        self.favorite_books = favorite_books
+        self.school = school
+    
+    def presentacion(self):
+        print("Hi there! My name is", self.name, "and I was born on", self.date_of_birth, ". I really enjoy sports like soccer, basketball and swimming. I ❤️ dancing, playing chess and checkers. My favorite books are Psicología del éxito, by Mario Luna; Controle su destino by Tony Robbins and El poder de los hábitos by Charles Duhigg. I love socializing and spending quality time with my friends. I'm studying at", self.school, "🤓.")
+
+AlejandroEnriquezRivera = AlejandroEnriquezRivera("Alejandro Enriquez Rivera", "21 de septiembre del 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
+AlejandroEnriquezRivera.presentacion()
+```
