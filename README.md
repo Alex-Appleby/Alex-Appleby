@@ -40,7 +40,7 @@
 
 ## I present myself in Python 🐍 . Thank you very much for coming this far! 😁:
 ```python
-class AlejandroEnriquezRivera:
+class Presentation:
     
     def __init__(self, name, date_of_birth, sports, favorite_activities, favorite_books, school):
         self.name = name
@@ -50,10 +50,11 @@ class AlejandroEnriquezRivera:
         self.favorite_books = favorite_books
         self.school = school
     
-    def presentacion(self):
+    def make(self):
         print("Hi there! My name is", self.name, "and I was born on", self.date_of_birth, ". I really enjoy sports like soccer, basketball and swimming. I ❤️ dancing, playing chess and checkers. My favorite books are Psychology of Success by Mario Luna, Control Your Destiny by Tony Robbins and The Power of Habits, by Charles Duhigg. I love socializing and spending quality time with my friends. I'm studying at", self.school, "🤓.")
 
-AlejandroEnriquezRivera = AlejandroEnriquezRivera("Alejandro Enriquez Rivera", "September 21st, 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
-AlejandroEnriquezRivera.presentacion()
+Presentation = Presentation("Alejandro Enriquez Rivera", "September 21st, 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
+Presentation.make()
+
 
 ```
