@@ -1,60 +1,137 @@
-
-<h1 align="center">Hi 👋, I'm Alex, nice to meet you!</h1>
-<h3 align="center">I'm a last year student of Computer Systems Engineering enthusiast for Data Science, Constant Learning and Chess 😊😃. I'm eager to discover new technologies 💻, learn from them 📚 and apply them to bring innovative solutions 💡. I like to work in complex and challenging software projects and I'm committed to quality and delivering products of the highest quality 🤝. I'm interested in using Artificial Intelligence to solve real problems and I love to share knowledge and experiences with other professionals.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=applebycodealex&label=Profile%20views&color=2590f4&style=flat" alt="applebycodealex" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=applebycodealex" alt="applebycodealex" /></a> </p>
-
-
-- 🔭 I’m currently working on **Design of RNA's guides for the CAS9 protein 🧬💻**
-
-- 🌱 I’m currently learning **Machine Learning 🤖, Artificial Intelligence 💻 and Data Science 📊**
-
-- 💬 Ask me about **Java 💻, Python 🐍**
-
-- 📫 How to reach me **aenriquezr1500@alumno.ipn.mx**
-
-- 📄 Know about my experiences [Curriculum](https://drive.google.com/drive/folders/1r4t-fzgudbXWsi9wuvV01dMdHWI7EsGz?usp=share_link)
-
-- ⚡ Fun fact **Professional dancers can burn up to 500 calories during an hour of intense dancing 💃. It's an excellent way to stay fit! 💪**
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A software developer passionate about web development and the world of Artificial Intelligence, living in Mexico 🇲🇽.</h3>
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/algo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="algo" height="30" width="40" /></a>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+- 🔭 **I am currently working on my thesis to obtain a degree in computer systems engineering from the IPN Higher School of Computer Science.**
+- 💻 **This thesis deals with the design of guide RNA molecules for the Cas9 protein.**
+- 🎓 **I graduate in February 2024.**
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,bootstrap,jquery,wordpress,androidstudio,mysql,sqlite,java,py,azure,c,discord,linux,vscode&perline=10" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+ </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/alejandro-enriquez-rivera-38379a263/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:aenriquezr1500@alumno.ipn.mx"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<center>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The&nbsp;ability&nbsp;to&nbsp;write&nbsp;code&nbsp;takes&nbsp;place&nbsp;at&nbsp;the&nbsp;intersection&nbsp;of&nbsp;creativity&#10;and&nbsp;logic.&author=Ziad&nbsp;Yehia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</center>
+
+- :bookmark_tabs: **If you want to know more, I invite you to see my** <a href="google.com" alt="CV">**CV.**</a>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=applebycodealex&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="applebycodealex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=applebycodealex&show_icons=true&theme=highcontrast&bg_color=000000&locale=en" alt="applebycodealex" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Appleby&theme=tokyonight_duo" alt="Alex-Appleby" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=applebycodealex&theme=highcontrast" alt="applebycodealex" /></p>
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Alex-Appleby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Appleby&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="240px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Appleby&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Alex-Appleby" height="240px"/>
+<br/>
 
-## I present myself in Python 🐍 . Thank you very much for coming this far! 😁:
-```python
-class Presentation:
-    
-    def __init__(self, name, date_of_birth, sports, favorite_activities, favorite_books, school):
-        self.name = name
-        self.date_of_birth = date_of_birth
-        self.sports = sports
-        self.favorite_activities = favorite_activities
-        self.favorite_books = favorite_books
-        self.school = school
-    
-    def make(self):
-        print("Hi there! My name is", self.name, "and I was born on", self.date_of_birth, ". I really enjoy sports like soccer, basketball and swimming. I ❤️ dancing, playing chess and checkers. My favorite books are Psychology of Success by Mario Luna, Control Your Destiny by Tony Robbins and The Power of Habits, by Charles Duhigg. I love socializing and spending quality time with my friends. I'm studying at", self.school, "🤓.")
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
-Presentation = Presentation("Alejandro Enriquez Rivera", "September 21st, 2000", ["soccer", "basketball", "swimming"], ["dancing", "chess", "checkers"], ["Psychology of Success, by Mario Luna", "Control Your Destiny, by Tony Robbins", "The Power of Habits, by Charles Duhigg"], "Superior School of Computing of the IPN")
-Presentation.make()
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alex-Appleby&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Alex-Appleby" /></a> </p>
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/Alex-Appleby/Merge-PDF">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Merge-PDF&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Alex-Appleby/Image-to-PDF">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Image-to-PDF&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Alex-Appleby/Chat-multicast-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Chat-multicast-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Alex-Appleby/Multiplicaci-n-de-Matrices">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Multiplicaci-n-de-Matrices&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
 
+</br>
 
-```
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Alex-Appleby}/count.svg" alt="Alex-Appleby :: Visitor's Count" /></p>
+
+Last Edited on: 03/11/2023
