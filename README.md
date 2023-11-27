@@ -52,7 +52,7 @@
 
 </center>
 
-- :bookmark_tabs: **If you want to know more, I invite you to see my** <a href="google.com" alt="CV">**CV.**</a>
+- :bookmark_tabs: **If you want to know more, I invite you to see my** <a href="[google.com](https://drive.google.com/file/d/1JtqQGj0zseA-zEZivUm9srfKoPWWFZWg/view?usp=sharing)" alt="CV">**CV.**</a> **or here is a** <a href="[google.com](https://drive.google.com/file/d/1kcoOG4FF1NTtsp_N7Rl6wD-pSI6Nh0ti/view?usp=sharing)" alt="CV">**Spanish**</a> **version.**
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
