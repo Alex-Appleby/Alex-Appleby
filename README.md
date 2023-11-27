@@ -39,8 +39,7 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/alejandro-enriquez-rivera-38379a263/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:aenriquezr1500@alumno.ipn.mx"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:enriquezalex40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
@@ -132,4 +131,4 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Alex-Appleby}/count.svg" alt="Alex-Appleby :: Visitor's Count" /></p>
 
-Last Edited on: 26/11/2023
+Last Edited on: 27/11/2023
