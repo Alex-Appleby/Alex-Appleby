@@ -8,9 +8,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-- 🔭 **I am currently working on my thesis to obtain a degree in computer systems engineering from the IPN Higher School of Computer Science.**
-- 💻 **This thesis deals with the design of guide RNA molecules for the Cas9 protein.**
-- 🎓 **I graduate in February 2024.**
+- 🧑‍💼 **I am currently a software consultant dedicated to supply chain.**
+- 💻 **I would love to go into the world of data and artificial intelligence in the future.**
+- ⬇️ **Keep scrolling down.**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -131,4 +131,4 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Alex-Appleby}/count.svg" alt="Alex-Appleby :: Visitor's Count" /></p>
 
-Last Edited on: 27/11/2023
+Last Edited on: 12/07/2024
