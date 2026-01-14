@@ -1,134 +1,49 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A software developer passionate about web development and the world of Artificial Intelligence, living in Mexico 🇲🇽.</h3>
+# Hola, soy Alejandro Enriquez 👋
+**Software Engineer | Java Backend & Python**
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
-</div>
+Ingeniero de Software enfocado en desarrollo Backend (Java/Python). Actualmente trabajo en **Infotec** construyendo soluciones de gobierno digital, con énfasis en el diseño de APIs RESTful, control de acceso y eficiencia en consultas SQL.
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+Me apasiona la arquitectura de software limpia y la transformación de datos complejos en soluciones útiles.
 
+---
 
-- 🧑‍💼 **I am currently a software consultant dedicated to supply chain.**
-- 💻 **I would love to go into the world of data and artificial intelligence in the future.**
-- ⬇️ **Keep scrolling down.**
+### 💼 Experiencia & Proyectos Principales (Casos de Estudio)
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,bootstrap,jquery,wordpress,androidstudio,mysql,sqlite,java,py,azure,c,discord,linux,vscode&perline=10" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- </a>
-</p>
+> *Nota: Debido a acuerdos de confidencialidad (NDA) y cesión de derechos, el código fuente de los siguientes proyectos no es público. A continuación describo mi contribución técnica.*
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+#### 🧬 CRISPR-Cas9 Guide RNA Finder (Tesis de Grado - IPN)
+**Rol:** Líder Técnico & Full Stack Developer
+* **El Reto:** Crear una herramienta bioinformática capaz de procesar secuencias genómicas para identificar sitios de corte CRISPR-Cas9.
+* **Solución:** Diseñé una arquitectura modular en **Python** y construí una interfaz de visualización que traduce cadenas de ARN crudas en gráficos interactivos para investigadores.
+* **Impacto:** Proyecto nominado a Mención Honorífica por su innovación técnica.
 
-<!--icons and links-->
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/alejandro-enriquez-rivera/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:enriquezalex40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
+#### 🏢 MyDay 2.0 - Employee Resource Management
+**Rol:** Backend Developer & DBA
+* **El Reto:** Migrar y centralizar la gestión de nómina y recursos humanos asegurando cero inconsistencias en datos financieros.
+* **Solución:** Implementé un esquema de base de datos estricto en **MySQL** para asegurar integridad referencial. Desarrollé una aplicación de escritorio en **Python** con validaciones de entrada robustas para prevenir errores humanos en la captura de datos.
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<center>
+### 🛠️ Stack Tecnológico Actual
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The&nbsp;ability&nbsp;to&nbsp;write&nbsp;code&nbsp;takes&nbsp;place&nbsp;at&nbsp;the&nbsp;intersection&nbsp;of&nbsp;creativity&#10;and&nbsp;logic.&author=Ziad&nbsp;Yehia)](https://github.com/piyushsuthar/github-readme-quotes)
+* **Lenguajes:** Java (Jakarta EE), Python, SQL.
+* **Backend:** RESTful APIs, JDBC, Multithreading.
+* **Datos:** PostgreSQL, MySQL, OracleDB (Optimización de consultas).
+* **Herramientas:** Git, Linux, Postman, Flyway.
 
-</center>
+---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+### 📂 Proyectos Open Source Destacados
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+Aquí puedes ver ejemplos de mi código:
 
+* **[Chat-multicast](https://github.com/Alex-Appleby/Chat-multicast-)** (Java): Implementación de un sistema de chat utilizando sockets multicast, gestionando concurrencia y comunicación en red.
+* **[Image-to-PDF](https://github.com/Alex-Appleby/Image-to-PDF)** (Python): Utilería de automatización para conversión de formatos de imagen, demostrando manejo de archivos y librerías externas.
+* **[Analizador-de-protocolos](https://github.com/Alex-Appleby/Analizador-de-protocolos)** (C): Análisis de bajo nivel de paquetes de red (ARP, IP, TCP), demostrando comprensión profunda de redes de computadoras.
 
+---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Appleby&theme=tokyonight_duo" alt="Alex-Appleby" /></p>
+### 📫 Contacto
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Alex-Appleby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Appleby&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="240px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Appleby&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Alex-Appleby" height="240px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alex-Appleby&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Alex-Appleby" /></a> </p>
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Alex-Appleby/Merge-PDF">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Merge-PDF&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Alex-Appleby/Image-to-PDF">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Image-to-PDF&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Alex-Appleby/Chat-multicast-">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Chat-multicast-&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Alex-Appleby/Multiplicaci-n-de-Matrices">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Appleby&repo=Multiplicaci-n-de-Matrices&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
-
-</br>
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Alex-Appleby}/count.svg" alt="Alex-Appleby :: Visitor's Count" /></p>
-
-Last Edited on: 12/07/2024
+* [LinkedIn](https://www.linkedin.com/in/alejandro-enriquez-rivera/)
+* [Email](mailto:enriquezalex40@gmail.com)
